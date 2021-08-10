@@ -1,0 +1,4 @@
+# based on tensorflow2_latest_p37
+tensorflow==2.3.0
+numpy==1.19.5
+h5py==2.10.0
